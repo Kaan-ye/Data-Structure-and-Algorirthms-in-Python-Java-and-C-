@@ -1,0 +1,7 @@
+## Object-Oriented Design Principles
+
+| Principle       | Description                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| **Abstraction**    | Shows only essential features of an object while hiding internal complexities.  |
+| **Encapsulation**  | Restricts direct access to an object’s data and allows controlled interaction through methods. |
+| **Modularity**     | Breaks down a program into smaller, self-contained units that can be developed and maintained independently. |
