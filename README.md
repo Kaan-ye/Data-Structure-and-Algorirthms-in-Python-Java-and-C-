@@ -8,9 +8,11 @@ Master Data Structures and Algorithms with clean, well-commented solutions in Py
 As a professional in the fields of spatial engineering and data science, I am passionate about making complex concepts in Data Structures and Algorithms accessible and practical. This repository is a part of my ongoing journey to strengthen my technical skills and to share knowledge with the broader programming community.
 
 # Project Goals
+
 The primary goal of this repository is to provide a comprehensive, organized collection of problems, concepts, and solutions in Data Structures and Algorithms, catering to learners at all levels—from beginners to experts.
 
-Key objectives of this project include:
+# Key objectives of this project include:
+
 • Building a Complete Collection: Covering all major DSA topics, from basic concepts like arrays to advanced topics like dynamic programming and graph theory.
 
 • Language Comparison: Implementing each data structure and algorithm in Python, Java, and C++, providing a side-by-side comparison and helping learners understand language-specific differences and advantages.
@@ -24,7 +26,7 @@ Key objectives of this project include:
 • Interview and Portfolio Readiness: Serving as a robust tool for preparing for coding interviews, technical assessments, and building a strong GitHub portfolio.
 
 
-Languages Used
+# Languages Used
 
 Each language in this repository serves a unique purpose when it comes to Data Structures and Algorithms (DSA):
 
@@ -37,7 +39,8 @@ C++: C++ is the preferred language for competitive programming and performance-c
 
 Each language folder contains parallel sets of DSA implementations, ensuring seamless comparison between the languages.
 
-Topics Covered
+# Topics Covered
+
 This repository spans the core concepts in Data Structures and Algorithms, with detailed explanations and implementations in Python, Java, and C++. Topics are organized in a clear, sequential order for maximum learning efficiency:
 
 • Time and Space Complexity: Deep dive into Big-O notation and its application.
@@ -68,7 +71,7 @@ This repository spans the core concepts in Data Structures and Algorithms, with 
 
 • Interview Questions & Practice Sets: A curated list of real coding interview questions.
 
-Each topic folder contains:
+# Each topic folder contains:
 
 • Code files (for Python, Java, and C++)
 
@@ -78,19 +81,24 @@ Each topic folder contains:
 
 • Test cases to validate the correctness and robustness of the solution.
 
-References & Books
+# References & Books
+
 The implementation of algorithms and data structures is based on renowned textbooks and resources, ensuring that the solutions are both theoretical and practical.
 
 • Python
+
 "Data Structures and Algorithms in Python" by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser (Wiley)
 
 • Java
+
 "Data Structures and Algorithms in Java" by Michael T. Goodrich and Roberto Tamassia (Wiley)
 
 • C++
+
 "Data Structures and Algorithm Analysis in C++ (4th Edition)" by Mark Allen Weiss (Florida International University)
 
-Additional Resources
+# Additional Resources
+
 • Introduction to Algorithms by Cormen, Leiserson, Rivest, Stein (CLRS)
 
 • GeeksForGeeks
@@ -101,7 +109,8 @@ Additional Resources
 
 • MIT OpenCourseWare DSA Lectures
 
-🎓 Audience
+# Audience
+
 This repository is designed for a wide range of users, including:
 
 • Computer Science Students and Engineering Majors: Ideal for students studying algorithms and data structures in their courses.
@@ -112,6 +121,6 @@ This repository is designed for a wide range of users, including:
 
 • Programming Language Enthusiasts: For learners switching between or mastering multiple programming languages.
 
-🧠 Final Note
+#  Final Note
 This repository is actively being developed and expanded. As I continue to deepen my understanding and implement more advanced concepts, the repository will grow to cover new topics and techniques. Contributions, feedback, and suggestions are always welcome!
 
