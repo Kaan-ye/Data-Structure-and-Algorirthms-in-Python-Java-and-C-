@@ -1,8 +1,7 @@
 # Data Structures and Algorithms in Python, Java, and C++
-Master Data Structures and Algorithms with clean, well-commented solutions in Python, Java, and C++. This repo covers arrays, trees, graphs, DP, sorting, and more—ideal for students, interview prep, and cross-language learning.
-This repository is a meticulously structured and comprehensive collection of Data Structures and Algorithms (DSA), implemented in Python, Java, and C++. It is designed as a personal reference for me, Kaan Yiğit Ertem, and serves as an accessible learning platform for others. The goal is to provide an in-depth comparative guide to mastering DSA concepts across multiple programming languages, allowing learners to understand the intricacies of each language while solidifying their understanding of key algorithms and data structures.
+Master Data Structures and Algorithms with clean, well-commented solutions in Python, Java, and C++. This repo covers arrays, trees, graphs, DP, sorting, and more—ideal for students, interview prep, and cross-language learning. This repository is a meticulously structured and comprehensive collection of Data Structures and Algorithms (DSA), implemented in Python, Java, and C++. It is designed as a personal reference for me, Kaan Yiğit Ertem, and serves as an accessible learning platform for others. The goal is to provide an in-depth comparative guide to mastering DSA concepts across multiple programming languages, allowing learners to understand the intricacies of each language while solidifying their understanding of key algorithms and data structures.
 
-📌 Author Kaan Yiğit Ertem
+Author Kaan Yiğit Ertem
 
 Spatial Engineer | Data Scientist | Geoinformatics Engineer
 
