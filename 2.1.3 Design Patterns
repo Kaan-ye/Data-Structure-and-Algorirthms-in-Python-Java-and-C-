@@ -1,0 +1,10 @@
+### 2.1.3 Design Patterns
+
+Design patterns offer proven solutions to common software design problems. Rather than reinventing the wheel, developers can apply these reusable templates to structure code that is clean, correct, and flexible. Each pattern includes:
+
+- **Name** – identifies the pattern
+- **Context** – describes the scenarios where it can be used
+- **Template** – outlines how to apply the pattern
+- **Result** – explains what the pattern achieves
+
+They help translate object-oriented principles into practical, maintainable software architecture.
