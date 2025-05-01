@@ -7,4 +7,5 @@ Typically, a class includes definitions for data fields, also referred to as ins
 Alongside these, it also defines methods, which are the actions or behaviors that an object can perform. This separation between the internal implementation and the external interface is a fundamental idea in object-oriented design. 
 It allows for greater modularity, maintainability, and clarity in software development.
 
-By following this model, object-oriented programming aims to achieve a number of key goals. These include making code easier to understand, reuse, and extend. Moreover, this paradigm is guided by a set of well-established design principles and patterns that help developers build systems that are both robust and adaptable. In this chapter, we will delve deeper into these goals, principles, and the commonly used design patterns that embody them.
+By following this model, object-oriented programming aims to achieve a number of key goals. These include making code easier to understand, reuse, and extend. 
+Moreover, this paradigm is guided by a set of well-established design principles and patterns that help developers build systems that are both robust and adaptable. In this chapter, we will delve deeper into these goals, principles, and the commonly used design patterns that embody them.
