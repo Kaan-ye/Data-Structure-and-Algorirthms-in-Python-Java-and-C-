@@ -12,14 +12,20 @@ The primary goal of this repository is to provide a comprehensive, organized col
 
 Key objectives of this project include:
 • Building a Complete Collection: Covering all major DSA topics, from basic concepts like arrays to advanced topics like dynamic programming and graph theory.
+
 • Language Comparison: Implementing each data structure and algorithm in Python, Java, and C++, providing a side-by-side comparison and helping learners understand language-specific differences and advantages.
+
 • Systematic Learning Path: Organizing topics in a progressive manner (e.g., Arrays → Linked Lists → Trees → Graphs → Dynamic Programming, etc.) for a smooth learning journey.
+
 • Clear, Readable Code: Providing well-documented, readable, and testable code for every solution, making it easy for users to understand the logic behind the implementation.
+
 • Complexity Analysis: Including time and space complexity analysis for each solution to deepen understanding of algorithm efficiency.
+
 • Interview and Portfolio Readiness: Serving as a robust tool for preparing for coding interviews, technical assessments, and building a strong GitHub portfolio.
 
 
 Languages Used
+
 Each language in this repository serves a unique purpose when it comes to Data Structures and Algorithms (DSA):
 
 Python: Known for its simple and readable syntax, Python is ideal for learning and prototyping DSA concepts. It's widely used in academia, startups, and for quick development. Python’s ease of use makes it a great choice for beginners and those who want to focus more on understanding the concepts rather than getting caught up in complex syntax.
@@ -35,25 +41,41 @@ Topics Covered
 This repository spans the core concepts in Data Structures and Algorithms, with detailed explanations and implementations in Python, Java, and C++. Topics are organized in a clear, sequential order for maximum learning efficiency:
 
 • Time and Space Complexity: Deep dive into Big-O notation and its application.
+
 • Arrays & Strings: Understanding the fundamental building blocks of any programming language.
+
 • Linked Lists: Single, double, and circular linked lists—implementations and operations.
+
 • Stacks and Queues: Essential structures for solving real-world problems.
+
 • Trees: Binary trees, Binary Search Trees (BST), Heaps, Tries, and advanced tree algorithms.
+
 • Graphs and Graph Algorithms: Depth-First Search (DFS), Breadth-First Search (BFS), Dijkstra’s algorithm, and more.
+
 • Recursion & Backtracking: Key techniques for problem-solving.
+
 • Dynamic Programming: Solving problems by breaking them down into simpler subproblems.
+
 • Searching & Sorting: Implementing and analyzing the efficiency of algorithms like QuickSort, MergeSort, Binary Search, etc.
+
 • Hashing: Understanding hash functions, hash tables, and their applications.
+
 • Bit Manipulation: Solving problems using bitwise operations.
+
 • Greedy Algorithms: Approaches for optimization problems.
+
 • Mathematics & Number Theory: Advanced concepts including prime number generation, greatest common divisor (GCD), etc.
+
 • Interview Questions & Practice Sets: A curated list of real coding interview questions.
 
 Each topic folder contains:
 
 • Code files (for Python, Java, and C++)
+
 • Explanations and pseudocode to understand the logic behind the algorithm.
+
 • Example Inputs/Outputs for each algorithm.
+
 • Test cases to validate the correctness and robustness of the solution.
 
 References & Books
@@ -70,17 +92,24 @@ The implementation of algorithms and data structures is based on renowned textbo
 
 Additional Resources
 • Introduction to Algorithms by Cormen, Leiserson, Rivest, Stein (CLRS)
+
 • GeeksForGeeks
+
 • LeetCode
+
 • HackerRank
+
 • MIT OpenCourseWare DSA Lectures
 
 🎓 Audience
 This repository is designed for a wide range of users, including:
 
 • Computer Science Students and Engineering Majors: Ideal for students studying algorithms and data structures in their courses.
+
 • Developers Preparing for Coding Interviews: A valuable resource for anyone looking to ace technical interviews and coding assessments.
+
 • Self-learners: Perfect for individuals who wish to learn DSA from scratch or improve their understanding in a structured manner.
+
 • Programming Language Enthusiasts: For learners switching between or mastering multiple programming languages.
 
 🧠 Final Note
