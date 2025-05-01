@@ -17,9 +17,9 @@ Moreover, this paradigm is guided by a set of well-established design principles
 In this chapter, we will delve deeper into these goals, principles, and the commonly used design patterns that embody them.
 
 Maintainability
-Maintainability refers to how easily a software system can be updated or modified over time. 
-Object-oriented design supports maintainability by promoting modular code, where changes in one class or component can often be made without affecting the rest of the system. 
-This separation of concerns helps developers quickly locate and fix bugs or add new features with minimal disruption.
+• Maintainability refers to how easily a software system can be updated or modified over time. 
+• Object-oriented design supports maintainability by promoting modular code, where changes in one class or component can often be made without affecting the rest of the system. 
+• This separation of concerns helps developers quickly locate and fix bugs or add new features with minimal disruption.
 
 Reusability
 • Reusability is the ability to use existing code components in different parts of a program or even in other projects. 
