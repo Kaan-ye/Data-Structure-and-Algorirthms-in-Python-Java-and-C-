@@ -22,11 +22,18 @@ Object-oriented design supports maintainability by promoting modular code, where
 This separation of concerns helps developers quickly locate and fix bugs or add new features with minimal disruption.
 
 Reusability
-Reusability is the ability to use existing code components in different parts of a program or even in other projects. 
-By designing general-purpose classes and using inheritance and interfaces, object-oriented programming encourages the creation of reusable building blocks. 
-This reduces duplication, saves development time, and ensures consistency across applications.
+• Reusability is the ability to use existing code components in different parts of a program or even in other projects. 
+• By designing general-purpose classes and using inheritance and interfaces, object-oriented programming encourages the creation of reusable building blocks. 
+• This reduces duplication, saves development time, and ensures consistency across applications.
+
 
 Scalability
-Scalability is about the system’s ability to grow and handle increasing complexity or load. 
-Object-oriented design allows developers to extend functionality by adding new classes or behaviors without rewriting existing code. 
-This makes it easier to scale applications as new requirements emerge.
+• Scalability is about the system’s ability to grow and handle increasing complexity or load. 
+• Object-oriented design allows developers to extend functionality by adding new classes or behaviors without rewriting existing code. 
+• This makes it easier to scale applications as new requirements emerge.
+
+Adaptability
+• Adaptability, also known as evolvability, is the ability of software to adjust and grow over time as its environment or requirements change.
+• High-quality software should be easy to update without needing major rewrites. 
+• Closely related is portability—the capability for software to run across different systems with minimal modification. 
+• Java supports both adaptability and portability, making it well-suited for long-lasting and widely used applications.
