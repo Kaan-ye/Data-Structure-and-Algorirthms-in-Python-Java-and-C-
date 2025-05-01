@@ -1,0 +1,27 @@
+## 2.2 Inheritance
+
+In object-oriented programming (OOP), **inheritance** is a fundamental concept where a subclass (child class) inherits attributes and behaviors (methods) from a superclass (parent class). This allows for **code reuse**, **modularity**, and a clear **hierarchical structure** in software design.
+
+Inheritance allows a new class to build upon an existing class, reducing redundancy and promoting the maintenance of clean code. The superclass defines common behaviors, which the subclass can inherit, modify, or extend. The subclass inherits all non-private methods and fields of the superclass and can focus on specific behaviors unique to the subclass.
+
+### Key Concepts of Inheritance
+
+- **Base Class (Superclass)**: A class that provides common functionality, which can be inherited by other classes.
+- **Derived Class (Subclass)**: A class that inherits from another class and can modify or extend its behavior.
+- **Method Overriding**: The ability of a subclass to provide its own implementation of a method already defined in the superclass.
+- **Method Inheritance**: A subclass automatically inherits methods from the superclass without redefining them.
+- **`super` keyword**: In Java, the `super` keyword refers to the superclass and allows access to its methods and fields.
+
+Inheritance establishes a **hierarchical structure** where subclasses extend the functionality of the base class. This structure keeps the code more organized and easier to maintain.
+
+### Why is Inheritance Important?
+
+- **Code Reusability**: Subclasses can reuse code from the superclass, eliminating redundancy.
+- **Maintainability**: Updates in the superclass are automatically inherited by all subclasses, simplifying maintenance.
+- **Extensibility**: New classes can easily be created by extending existing ones.
+- **Polymorphism**: Inheritance allows polymorphism, enabling objects of different classes to be treated as instances of the superclass.
+
+### Example: Animal, Dog, and Cat Classes
+
+Consider an example with an `Animal` superclass and two subclasses, `Dog` and `Cat`. The `Animal` class will define general attributes and methods that all animals share, and the subclasses will specialize these behaviors.
+
