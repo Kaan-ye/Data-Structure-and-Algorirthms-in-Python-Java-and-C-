@@ -1,1 +1,1 @@
-
+Object-oriented programming revolves around the concept of "objects," which are instances of classes. Each class provides a clear and consistent interface to the outside world, showing only essential information about its objects while keeping internal details hidden. A class defines the data fields, or instance variables, that an object holds, as well as the methods, or operations, the object can perform. This approach aims to meet several goals and follows specific design principles, which will be explored in this chapter.
